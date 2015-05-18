@@ -11,7 +11,7 @@ This website was meant to feature one of our vendors and show the products they 
 I used a jQuery plugin carousel called [Flexslider by WooThemes - http://www.woothemes.com/flexslider](http://www.woothemes.com/flexslider/) on the rotating banner up top.  I also used it in the middle section to feature one of their products and rotate to different images of it.    
 
 **Desktop version**  
-In the root folder in **index.html**,  
+In the desktop folder in **index.html**,  
 the CSS styles I created are between the comments  
 `<!-- Michael de Leon's CSS styles.  CUT HERE. CUSTOM CSS BEGIN -->`  
 and  
